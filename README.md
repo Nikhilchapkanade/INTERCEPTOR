@@ -77,7 +77,7 @@ INTERCEPTOR is a **5-layer microservice architecture** where each layer runs ind
 
 ```bash
 # Clone
-git clone https://github.com/<your-username>/interceptor.git
+git clone https://github.com/Nikhilchapkanade/INTERCEPTOR.git
 cd interceptor
 
 # Setup
