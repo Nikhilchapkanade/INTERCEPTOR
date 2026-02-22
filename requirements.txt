@@ -1,0 +1,23 @@
+# Project INTERCEPTOR - Autonomous Swarm Defense Architecture
+# Core
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Simulation Environment
+gymnasium>=0.29.0
+
+# Reinforcement Learning
+stable-baselines3>=2.1.0
+sb3-contrib>=2.1.0
+torch>=2.0.0
+tensorboard>=2.14.0
+
+# Kafka Streaming
+kafka-python>=2.0.2
+
+# Agentic Supervisor
+langgraph>=0.0.30
+langchain-core>=0.1.0
+
+# Utilities
+pydantic>=2.0.0
