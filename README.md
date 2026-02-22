@@ -168,6 +168,11 @@ The agent uses **LSTM-PPO** with temporal reasoning to learn pursuit guidance. K
 - **ZEM (Zero-Effort-Miss)** — decreases as guidance improves
 - **Hit Rate** — the ultimate metric
 
+### Training Dashboard
+<p align="center">
+  <img src="output/training_metrics.png" alt="Training Metrics" width="800"/>
+</p>
+
 ---
 
 ## 🛠️ Tech Stack
